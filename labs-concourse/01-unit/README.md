@@ -1,4 +1,4 @@
-# 01 Unit Test
+# Lab 01 - Unit Test
 
 This lab will build on what we just learned by executing a real build on the Spring Music application in this repository.  In addition to building the project we'll see that we can also run unit tests and potentially fail the job if something isn't working as expected.
 

@@ -6,7 +6,7 @@ This lab will build on what was learned in the first lab.
 
 We are adding an additional resource to this pipeline of type "semver".  This is a special built-in resource type that help to keep track of an artifacts build version using Symantic Versioning (e.g. X.Y.Z).  Additionally, we have added a second job that will package the repository into a deployable binary.
 
-This lab will also demonstrate how Jobs can be effectively chained together with the output(s) of one becoming the input(s) of the other.
+This lab will also demonstrate how tasks can be effectively chained together with the output(s) of one becoming the input(s) of the other.
 
 ## Review the Task build-artifact
 
